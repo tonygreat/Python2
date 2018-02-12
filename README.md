@@ -1,2 +1,2 @@
 # Python2
-We I put my python projects and other interesting scripts
+This is where I put my python2 projects and other interesting scripts
